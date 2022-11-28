@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Miimum Bug Reproducible Environment for the issue described in (SWC Jotai Plugin Issue #2)[https://github.com/pmndrs/swc-jotai/issues/2]
 
 ## Getting Started
 
