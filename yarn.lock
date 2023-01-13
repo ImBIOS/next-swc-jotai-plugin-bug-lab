@@ -1166,10 +1166,10 @@
   resolved "https://registry.yarnpkg.com/@swc-jotai/debug-label/-/debug-label-0.0.6.tgz#e47fccd681efb3744bc3a17ead7b69dcf5ae65d6"
   integrity sha512-rLJ/SbxeLyGzekICG09wVVq+SlOeou6pKNBJS7S30XtZ9M8cSRvI9ygsLDM5NnN9Sde3WbQG+a24rEfyuTPP/A==
 
-"@swc-jotai/react-refresh@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@swc-jotai/react-refresh/-/react-refresh-0.0.2.tgz#c21610aed3f21a35c0df3a3d559582bac55dd9ec"
-  integrity sha512-cxaT9Hkm197Hrs1LBROVivoYJOX2Uo0nXTA4XnI9JMJLIiUcr3U7kUbTLG/OkMgzsf4WGPKO4D/oDgfngvpH1A==
+"@swc-jotai/react-refresh@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@swc-jotai/react-refresh/-/react-refresh-0.0.3.tgz#00f6e9f5cb4376a1375726e72b20f9a7b13a0e6b"
+  integrity sha512-bTW1XtnYmH6etH4flDE7sTEqaRnnN8n5iOhN0C9xtGoub8S65co9t2vUicLG/gIyrgL5/Xwsv5ExMNBbMV+FXQ==
 
 "@swc/helpers@0.4.14":
   version "0.4.14"
