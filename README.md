@@ -1,4 +1,6 @@
-This is a Miimum Bug Reproducible Environment for the issue described in (SWC Jotai Plugin Issue #2)[https://github.com/pmndrs/swc-jotai/issues/2]
+This is a Minimum Bug Reproducible Environment for the issue described in [SWC Jotai Plugin Issue](https://github.com/pmndrs/swc-jotai/issues/2)
+
+![image](https://user-images.githubusercontent.com/41441643/204176287-9802845a-9b46-4232-b667-0cceb2606e81.png)
 
 ## Getting Started
 
